@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643940139485",
+    "project_id": "uberx-9723b",
+    "storage_bucket": "uberx-9723b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643940139485:android:27b1a07ec0a8292a40f634",
+        "android_client_info": {
+          "package_name": "br.com.rodrigo.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643940139485-8tjgi2h6fqlhgup3fvfc9kgq3874dpu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RQBE4kD6a3fDKoxH2w6x1jogtIG-ap8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643940139485-8tjgi2h6fqlhgup3fvfc9kgq3874dpu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
